@@ -16,6 +16,8 @@ Harness Engineering 的核心目标是：
 
 > 让 AI 系统“可控、可测试、可评估、可演化”。
 
+一句话：Dont't ask what your agents can do for you. Ask what you can do for your agnet.
+
 ## 🧩 什么是 Harness Engineering？
 
 Harness Engineering 是一种围绕 AI / Agent 构建的工程方法论，强调：
@@ -41,10 +43,11 @@ Harness Engineering（驾驭工程）是 2025 年至 2026 年间逐渐兴起的 
 这一概念的明确提出始于 2026 年初：
 
 - HashiCorp 联合创始人 Mitchell Hashimoto 最早使用该术语，描述其利用 AI Agent 进行软件开发的方法。
-- 随后，OpenAI 在 2026 年 2 月发布《Harness engineering: leveraging Codex in an agent-first world》一文，分享团队在五个月内、仅靠 3-7 名工程师、借助 Codex AI Agent 构建 100 万行代码产品的内部实验。
+- 随后，OpenAI 在 2026 年 2 月发布[《Harness engineering: leveraging Codex in an agent-first world》](https://openai.com/zh-Hans-CN/index/harness-engineering/)一文，分享团队在五个月内、仅靠 3-7 名工程师、借助 Codex AI Agent 构建 100 万行代码产品的内部实验。
 - 紧接着，Martin Fowler 和 Thoughtworks 的专家 Birgitta Böckeler 也进行了专门解读，将其归纳为更清晰的工程框架。
 
 ### 演进路径
+![path](./diagrams/HCHoBfpWsAATUzk.jfif)
 
 从演进路径来看，Harness Engineering 是对此前几个工程阶段的自然承接与整合：
 
@@ -59,6 +62,7 @@ Harness Engineering（驾驭工程）是 2025 年至 2026 年间逐渐兴起的 
 最终演化为：**Harness Engineering（约束 + 测试 + 评估）**。
 
 ## 🧠 核心思想
+![harness](./diagrams/HDF0MuzaMAMSEam.jfif)
 
 Harness Engineering 重点解决以下五类问题：
 
@@ -70,7 +74,7 @@ Harness Engineering 重点解决以下五类问题：
 
 ## 🏗️ 系统架构
 
-![architecture](./diagrams/architecture.png)
+![architecture](./diagrams/)
 
 核心模块通常包括：
 
@@ -88,9 +92,22 @@ Harness Engineering 重点解决以下五类问题：
 | 文章地址 | 作者 |
 | --- | --- | 
 | [Harness Engineering 是什么？从上下文工程到驾驭工程](https://cloud.tencent.com/developer/article/2645208) |[mixlab](https://cloud.tencent.com/developer/user/1628742) | 
-| | |
+| ["Harness Engineering" is going to blow up](https://x.com/dotey/status/2027156511555027252)| 宝玉|
 |  | |
 |  | |
+
+### 必读
+| 文章地址 | 作者 |
+| --- | --- |
+| [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/zh-Hans-CN/index/harness-engineering/)| OpenAI|
+|[Exploring Gen AI](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html) | Martin Fowler| 
+|[Harness Engineering Is Cybernetics](https://x.com/odysseus0z/status/2030416758138634583) |George|
+|[The Anatomy of an Agent Harness](https://x.com/Vtrivedy10/status/2031408954517971368) | Viv|
+|[Harness capabilities](https://docs.langchain.com/oss/python/deepagents/harness) | Langchain docs |
+
+### 学习资源
+* [Reliable AI Systems](https://www.to2d.xyz/)
+
 
 ## ⚙️ 实战教程入口
 
