@@ -108,6 +108,7 @@ Harness Engineering 重点解决以下五类问题：
 ### 学习资源
 * [Reliable AI Systems](https://www.to2d.xyz/)
 
+* [Harness Engineering方法论与落地指南](https://www.douyin.com/jingxuan?modal_id=7626744866856275235)
 
 ## ⚙️ 实战教程入口
 
